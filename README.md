@@ -21,7 +21,6 @@ I'm an ethical hacker and a programmer.
 	   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
 	   <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" **alt="Podman" width="40" height="40"/>
 
-	  </div>
 
 
 ### :fire: My Stats :
